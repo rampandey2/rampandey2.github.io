@@ -1,4 +1,4 @@
-# Ram Prasad Pandey — personal website
+# Ram Pandey — personal website
 
 A plain HTML/CSS site (no build tools). It works on GitHub Pages for free.
 
@@ -20,7 +20,7 @@ A plain HTML/CSS site (no build tools). It works on GitHub Pages for free.
 Save a portrait photo as **`assets/photo.jpg`** (about 480 × 560 px works well).
 Until then, the home page shows "RP" initials.
 
-## 2. Publish on GitHub Pages (free, ~15 minutes)
+## 2. Publish on GitHub Pages
 1. Create a free account at https://github.com (e.g. username `rampandey`).
 2. Click **New repository**. Name it exactly **`<your-username>.github.io`**
    (e.g. `rampandey.github.io`). Set it to **Public**, then click **Create repository**.
