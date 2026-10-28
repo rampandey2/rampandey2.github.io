@@ -239,3 +239,13 @@ main { padding-bottom: 64px; }
 .footer-inner { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
 .site-footer a { color: var(--muted); }
 .site-footer a:hover { color: var(--accent); }
+
+/* Photos inside news items */
+.news-img {
+  display: block;
+  width: 100%;
+  max-width: 360px;
+  margin-top: 10px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+}
